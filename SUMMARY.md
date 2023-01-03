@@ -29,14 +29,3 @@
 * [Ethereum Ecosystem](testnet-guide/ethereum-ecosystem/README.md)
   * [🟢 Alepzero](testnet-guide/ethereum-ecosystem/alepzero.md)
   * [🟢 Chainflip](testnet-guide/ethereum-ecosystem/chainflip.md)
-
-## Fundamentals
-
-* [🛠 Getting set up](fundamentals/getting-set-up/README.md)
-  * [📝 Setting permissions](fundamentals/getting-set-up/setting-permissions.md)
-  * [🧑 Inviting Members](fundamentals/getting-set-up/inviting-members.md)
-
-## Use Cases
-
-* [🎨 For Designers](use-cases/for-designers.md)
-* [🖥 For Developers](use-cases/for-developers.md)
