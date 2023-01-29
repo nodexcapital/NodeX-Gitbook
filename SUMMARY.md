@@ -4,28 +4,17 @@
 
 ## Overview
 
-* [☢ Who am i?](overview/who-am-i.md)
-* [🔥 Our Service](overview/our-service.md)
+* [🌀 Who am i?](overview/who-am-i.md)
+* [🌀 Our Service](overview/our-service.md)
 
-## Mainnet Guide
+## 🌐 Mainnet
 
-* [🟢 Mises](mainnet-guide/mises.md)
-* [🟢 Tidefi](mainnet-guide/tidefi.md)
-* [🟢 Stride](mainnet-guide/stride.md)
-
-## Testnet Guide
-
-* [Cosmos Ecosystem](testnet-guide/cosmos-ecosystem/README.md)
-  * [🔴 Neutron](testnet-guide/cosmos-ecosystem/neutron.md)
-  * [🟢 Sei](testnet-guide/cosmos-ecosystem/sei.md)
-  * [🟢 Defund](testnet-guide/cosmos-ecosystem/defund.md)
-  * [🟢 Humans](testnet-guide/cosmos-ecosystem/humans.md)
-  * [🟢 Nolus](testnet-guide/cosmos-ecosystem/nolus.md)
-  * [🟢 Gitopia](testnet-guide/cosmos-ecosystem/gitopia.md)
-  * [🟢 Nibiru](testnet-guide/cosmos-ecosystem/nibiru.md)
-  * [🟢 Nois](testnet-guide/cosmos-ecosystem/nois.md)
-  * [🟢 Realio](testnet-guide/cosmos-ecosystem/realio.md)
-  * [🟢 Okp4](testnet-guide/cosmos-ecosystem/okp4.md)
-* [Ethereum Ecosystem](testnet-guide/ethereum-ecosystem/README.md)
-  * [🟢 Alepzero](testnet-guide/ethereum-ecosystem/alepzero.md)
-  * [🟢 Chainflip](testnet-guide/ethereum-ecosystem/chainflip.md)
+* [🟢 PlanQ](mainnet/planq/README.md)
+  * [1 Installation](mainnet/planq/installation.md)
+  * [2 Upgrade](mainnet/planq/upgrade.md)
+  * [3 Snapshot](mainnet/planq/snapshot.md)
+  * [4 State Sync](mainnet/planq/state-sync.md)
+  * [5 Monitoring](mainnet/planq/monitoring.md)
+* [🟢 Mises](mainnet/mises.md)
+* [🟢 Tidefi](mainnet/tidefi.md)
+* [🟢 Stride](mainnet/stride.md)
