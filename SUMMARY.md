@@ -1,11 +1,6 @@
 # Table of contents
 
-* [Whyme | NodeX Capital ](README.md)
-
-## Overview
-
-* [🌀 Who am i?](overview/who-am-i.md)
-* [🌀 Our Service](overview/our-service.md)
+* [NodeX Capital Chain Service](README.md)
 
 ## 🌐 Mainnet
 
@@ -15,6 +10,7 @@
   * [3 Snapshot](mainnet/planq/snapshot.md)
   * [4 State Sync](mainnet/planq/state-sync.md)
   * [5 Monitoring](mainnet/planq/monitoring.md)
+  * [6 Cheat Sheet](mainnet/planq/cheat-sheet.md)
 * [🟢 Mises](mainnet/mises.md)
 * [🟢 Tidefi](mainnet/tidefi.md)
 * [🟢 Stride](mainnet/stride.md)
