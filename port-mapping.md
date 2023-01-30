@@ -1,0 +1,11 @@
+---
+description: >-
+  List of Cosmos ecosystem projets with custom ports configured below ✨ Special
+  thanks to KJNodes and other frens ❤
+---
+
+# 🎯 Port Mapping
+
+<table><thead><tr><th>Project name</th><th>Custom port</th><th>Manual guide</th><th data-hidden>Full guide</th><th data-hidden>Validator monitoring guide</th></tr></thead><tbody><tr><td>Sei</td><td>30</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Deweb</td><td>31</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Stride</td><td>32</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Celestia</td><td>33</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Nibiru</td><td>34</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Okp4</td><td>35</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Nois</td><td>36</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Gitopia</td><td>37</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Defund</td><td>38</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Nolus</td><td>39</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Humans</td><td>40</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Realio</td><td>42</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Sigma</td><td>43</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Planq</td><td>44</td><td><a href="mainnet/planq/">Click Here</a></td><td>click here</td><td>click here</td></tr><tr><td>Terp</td><td>45</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Source</td><td>46</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Mises</td><td>47</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Lava</td><td>48</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Blockx</td><td>49</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr><tr><td>Mars</td><td>50</td><td>Coming Soon</td><td>click here</td><td>click here</td></tr></tbody></table>
+
+Regards \~ [Whyme | NodeX Capital](https://discord.com/users/928575843641479198)

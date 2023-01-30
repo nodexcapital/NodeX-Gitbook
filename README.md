@@ -1,28 +1,27 @@
----
-description: >-
-  NodeX Capital's Secure & Reliable Nodes Validator - Your Trusted Staking
-  Provider
-cover: .gitbook/assets/nodexcapital (1).png
-coverY: 0
----
+# 🌏 Supported Networks
 
-# NodeX Capital Chain Service
+| Projects Name                       | Chain ID      | Node Version |
+| ----------------------------------- | ------------- | ------------ |
+| **Sei**                             |               | Coming Soon  |
+| **Deweb**                           |               | Coming Soon  |
+| **Stride**                          |               | Coming Soon  |
+| **Celestia**                        |               | Coming Soon  |
+| **Nibiru**                          |               | Coming Soon  |
+| **Okp4**                            |               | Coming Soon  |
+| **Nois**                            |               | Coming Soon  |
+| **Gitopia**                         |               | Coming Soon  |
+| **Defund**                          |               | Coming Soon  |
+| **Nolus**                           |               | Coming Soon  |
+| **Humans**                          |               | Coming Soon  |
+| **Realio**                          |               | Coming Soon  |
+| **Sigma**                           |               | Coming Soon  |
+| ****[**Planq**](mainnet/planq/)**** | planq\_7070-2 | v1.0.3       |
+| **Terp**                            |               | Coming Soon  |
+| **Source**                          |               | Coming Soon  |
+| **Mises**                           |               | Coming Soon  |
+| **Lava**                            |               | Coming Soon  |
+| **Blockx**                          |               | Coming Soon  |
+| **Mars**                            |               | Coming Soon  |
 
-We creating guides and developing tools for community to make node operators life easier. Also glad to help projects by providing we highly secure and reliable infrastructure.
+Regards \~ [Whyme | NodeX Capital](https://discord.com/users/928575843641479198)
 
-Our services include:\
-➡️ API / REST Endpoint\
-➡️ RPC Endpoint\
-➡️ gRPC Endpoint\
-➡️ Web gRPC Endpoint\
-➡️ Genesis file\
-➡️ IBC Relayers\
-➡️ Seed Node\
-➡️ Live Peers\
-➡️ Addrbook file\
-➡️ State Sync\
-➡️ Snapshot
-
-We do not use cheap servers, only powerful and reliable servers. This allows our to uncompromisingly ensure reliability and availability of data, as well as high uptime of our nodes.&#x20;
-
-In addition, the use of multi-level monitoring systems Prometeus + Grafana + alerts bots in Telegram and Discord allows to solve non-trivial problems quickly and efficiently.
