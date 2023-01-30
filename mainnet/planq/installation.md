@@ -52,7 +52,8 @@ make build
 
 ```
 mkdir -p $HOME/.planqd/cosmovisor/genesis/bin
-mv target/dist/planqd $HOME/.planqd/cosmovisor/genesis/bin/
+cd build
+mv planqd $HOME/.planqd/cosmovisor/genesis/bin/
 rm -rf build
 ```
 
