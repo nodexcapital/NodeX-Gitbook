@@ -19,10 +19,16 @@ Planq is a Tendermint-based chain. You can typically use Keplr or Ping to access
 * gRPC : [https://grpc.planq.nodexcapital.com](https://grpc.planq.nodexcapital.com)
 * gRPC Web : [https://grpc-web.planq.nodexcapital.com](https://grpc-web.planq.nodexcapital.com)
 
-#### **Live Addrbook**
+#### **Mirror Download Addrbook**
 
 ```
 curl -Ls https://snap.nodexcapital.com/planq/addrbook.json > $HOME/.planqd/config/addrbook.json  
+```
+
+#### Mirror Download Genesis
+
+```
+curl -Ls https://snap.nodexcapital.com/planq/genesis.json > $HOME/.planqd/config/genesis.json  
 ```
 
 #### Live Peers
