@@ -31,7 +31,7 @@ rm -rf $HOME/.planqd/data
 #### Download latest snapshot
 
 ```
-curl -L https://snap.nodexcapital.com/planq/planq-latest.tar.lz4 | tar -Ilz4 -xf - -C $HOME/services
+curl -L https://snap.nodexcapital.com/planq/planq-latest.tar.lz4 | tar -Ilz4 -xf - -C $HOME/.planqd
 mv $HOME/.planqd/priv_validator_state.json.backup $HOME/.planqd/data/priv_validator_state.json
 ```
 
