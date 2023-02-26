@@ -14,10 +14,10 @@ Planq is a Tendermint-based chain. You can typically use Keplr or Ping to access
 
 #### **Public Endpoints**&#x20;
 
-* RPC : [https://rpc.planq.nodexcapital.com](https://rpc.planq.nodexcapital.com)
-* API : [https://api.planq.nodexcapital.com](https://api.planq.nodexcapital.com)
-* gRPC : [https://grpc.planq.nodexcapital.com](https://grpc.planq.nodexcapital.com)
-* gRPC Web : [https://grpc-web.planq.nodexcapital.com](https://grpc-web.planq.nodexcapital.com)
+* RPC : [https://rpc.planq-m.nodexcapital.com](https://rpc.planq.nodexcapital.com)
+* API : [https://rest.planq-m.nodexcapital.com](https://api.planq.nodexcapital.com)
+* gRPC : [https://grpc.planq-m.nodexcapital.com](https://grpc.planq.nodexcapital.com)
+* gRPC Web : [https://jsonrpc.planq-m.nodexcapital.com](https://grpc-web.planq.nodexcapital.com)
 
 #### **Mirror Download Addrbook**
 

@@ -15,6 +15,7 @@
 
 ## TESTNET
 
+* [🟢 Coreum](testnet/coreum.md)
 * [🟢 Okp4](testnet/okp4/README.md)
   * [1 Installation](testnet/okp4/installation.md)
   * [2 Upgrade](testnet/okp4/upgrade.md)

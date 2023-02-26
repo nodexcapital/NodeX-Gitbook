@@ -99,7 +99,7 @@ sudo systemctl enable planqd
 ```
 planqd config chain-id planq_7070-2
 planqd config keyring-backend file
-planqd config node tcp://localhost:44657
+planqd config node tcp://localhost:12757
 
 planqd init $MONIKER --chain-id planq_7070-2
 ```
@@ -129,8 +129,8 @@ sed -i \
 #### [Custom Port PlanQ](../../port-mapping.md)
 
 ```
-sed -i -e "s%^proxy_app = \"tcp://127.0.0.1:26658\"%proxy_app = \"tcp://127.0.0.1:44658\"%; s%^laddr = \"tcp://127.0.0.1:26657\"%laddr = \"tcp://127.0.0.1:44657\"%; s%^pprof_laddr = \"localhost:6060\"%pprof_laddr = \"localhost:44060\"%; s%^laddr = \"tcp://0.0.0.0:26656\"%laddr = \"tcp://0.0.0.0:44656\"%; s%^prometheus_listen_addr = \":26660\"%prometheus_listen_addr = \":44660\"%" $HOME/.planqd/config/config.toml
-sed -i -e "s%^address = \"tcp://0.0.0.0:1317\"%address = \"tcp://0.0.0.0:44317\"%; s%^address = \":8080\"%address = \":44080\"%; s%^address = \"0.0.0.0:9090\"%address = \"0.0.0.0:44090\"%; s%^address = \"0.0.0.0:9091\"%address = \"0.0.0.0:44091\"%; s%^address = \"0.0.0.0:8545\"%address = \"0.0.0.0:44545\"%; s%^ws-address = \"0.0.0.0:8546\"%ws-address = \"0.0.0.0:44546\"%" $HOME/.planqd/config/app.toml
+sed -i.bak -e "s%^proxy_app = \"tcp://127.0.0.1:26658\"%proxy_app = \"tcp://127.0.0.1:12758\"%; s%^laddr = \"tcp://127.0.0.1:26657\"%laddr = \"tcp://127.0.0.1:12757\"%; s%^pprof_laddr = \"localhost:6060\"%pprof_laddr = \"localhost:12760\"%; s%^laddr = \"tcp://0.0.0.0:26656\"%laddr = \"tcp://0.0.0.0:12756\"%; s%^prometheus_listen_addr = \":26660\"%prometheus_listen_addr = \":12760\"%" $HOME/$FOLDER/config/config.toml
+sed -i.bak -e "s%^address = \"tcp://0.0.0.0:1317\"%address = \"tcp://0.0.0.0:12717\"%; s%^address = \":8080\"%address = \":12780\"%; s%^address = \"0.0.0.0:9090\"%address = \"0.0.0.0:12790\"%; s%^address = \"0.0.0.0:9091\"%address = \"0.0.0.0:12791\"%" $HOME/.planqd/config/app.toml
 ```
 
 #### Disable Indexer (Optional)
